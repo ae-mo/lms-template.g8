@@ -1,1 +1,1 @@
-Simple Sbt project with Scala.
+Simple LMS project with Scala.
